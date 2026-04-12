@@ -1,0 +1,2 @@
+- Database: tour_du_lich
+- Trong folder SQL, tải file về và nhập vào MySQL
